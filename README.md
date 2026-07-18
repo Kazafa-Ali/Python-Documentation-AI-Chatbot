@@ -130,8 +130,10 @@ Example:
 
 ```
 screenshots/
-    chatbot_home.png
-    chatbot_response.png
+    <img width="1153" height="636" alt="Chatbot_home" src="https://github.com/user-attachments/assets/8eaf1915-b211-4609-a1cf-6a132c15bea4" />
+<img width="1144" height="638" alt="chatbot_response" src="https://github.com/user-attachments/assets/ffbc5a6c-f66e-42e3-ab5d-24f8745b9790" />
+
+
 ```
 
 ---
